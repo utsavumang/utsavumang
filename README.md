@@ -1,3 +1,5 @@
+![Typing Effect](https://i.imgur.com/pW1mYS1.gif)
+
 # 💫 About Me:
 I'm currently learning full stack web development and Large Language Models.<br>I have previously worked with ML and DL Models using Scikit-Learn, Tensorflow and Keras.
 
